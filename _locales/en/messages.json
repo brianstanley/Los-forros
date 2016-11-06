@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "los forros",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Sincera tu navegador cuando aparece el nombre de ciertas personalidades publicas",
+    "description": "The description of the application"
+  }
+}
